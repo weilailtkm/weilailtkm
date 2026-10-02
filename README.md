@@ -14,24 +14,12 @@
 
 <br/>
 
-**后端 / 全栈 · 工具面板 · 自动化**
+**工具面板 · 自动化**
 
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&logoColor=white&color=2A9D8F)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=e9a825)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
-
----
-
-## About me
-
-喜欢把繁琐流程收成**好用的小面板**：清晰界面、稳妥后端、能落地的脚本。
-
-- 关注 **Go / Vue / Docker** 与本地可运行的工具产品  
-- 偏好可读代码、温润 UI，而不是堆特效  
-- 正在做：多项目登陆脚本面板、卡密与 Cookie 工作流等  
-
-> 用代码把重复劳动变短一点。
 
 ---
 
@@ -50,15 +38,7 @@
 
 ---
 
-## Featured work
 
-| 项目 | 简介 | 栈 |
-|------|------|----|
-| **[登陆中心](https://github.com/YOUR_GITHUB_USERNAME/login-center)** | 多项目登陆脚本面板：账密 / 扫码 / 验证码，Cookie 管理与卡密前台 | Go · Vue 3 · SQLite · Docker |
-| **手机节点** | 本机 HTTP / SOCKS5，配合穿透作本地出口 | Android · Kotlin |
-| *（在此继续加你的仓库）* | | |
-
----
 
 ## GitHub pulse
 
@@ -74,16 +54,6 @@
 
 </div>
 
----
-
-## Now / Next
-
-- [x] 登陆中心单端口面板 + Docker 部署  
-- [x] 登陆工作台代理 / 穿透出口  
-- [ ] 更稳的手机节点体验与文档  
-- [ ] 开源整理与版本发布  
-
----
 
 ## Connect
 
